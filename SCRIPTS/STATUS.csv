@@ -1,0 +1,8 @@
+status_recurso_id, clave, descripcion
+1,Disponible,El recurso está disponible para préstamo
+2,Préstamo,El recurso se encuentra en préstamo
+3,Consulta,El recurso únicamente puede ser consultado en la sala
+4,Dañado,El recurso se encuentra dañado
+5,Reparación,El recurso se encuentra en reparación
+6,Extraviado,EL recurso se encuentra extraviado
+7,Préstamo expirado,El recurso fue prestado pero expiró su fecha

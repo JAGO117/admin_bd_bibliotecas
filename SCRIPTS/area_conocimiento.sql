@@ -1,0 +1,10 @@
+insert into admin_bi_us.area_conocimiento (area_conocimiento_id, nombre) values (1, 'Matematicas');
+insert into admin_bi_us.area_conocimiento (area_conocimiento_id, nombre) values (2, 'Lengua');
+insert into admin_bi_us.area_conocimiento (area_conocimiento_id, nombre) values (3, 'Fisica');
+insert into admin_bi_us.area_conocimiento (area_conocimiento_id, nombre) values (4, 'Quimica');
+insert into admin_bi_us.area_conocimiento (area_conocimiento_id, nombre) values (5, 'Electronica');
+insert into admin_bi_us.area_conocimiento (area_conocimiento_id, nombre) values (6, 'Computacion');
+insert into admin_bi_us.area_conocimiento (area_conocimiento_id, nombre) values (7, 'Biologia');
+insert into admin_bi_us.area_conocimiento (area_conocimiento_id, nombre) values (8, 'Historia');
+insert into admin_bi_us.area_conocimiento (area_conocimiento_id, nombre) values (9, 'Salud');
+insert into admin_bi_us.area_conocimiento (area_conocimiento_id, nombre) values (10, 'Divulgacion Cientifica');
